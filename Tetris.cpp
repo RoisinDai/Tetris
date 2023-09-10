@@ -6,7 +6,6 @@
 #include <fstream>
 #include "Block.h"
 #include <mmsystem.h>
-#include <SFML/Audio.hpp>
 #pragma comment(lib, "winmm.lib")
 
 #define MAX_LEVEL 5
